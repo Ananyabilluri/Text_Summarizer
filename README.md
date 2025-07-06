@@ -24,5 +24,4 @@ python text_summarizer.py
 ## Output
 - Condensed summary of the input text
 
-## Note
-Replace the sample text with real documents for practical use.
+
